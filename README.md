@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">A passionate mobile application developer from Turkey</h3>
 
+- 📚 I'm a Computer Engineering student at [Marmara University](https://www.marmara.edu.tr/) 
+
+- 📊 I'm currently working at [Konzek Technology](https://www.konzek.com/) as a Mobile Application Developer.
+
 - 🔭 I’m currently working on my personal project [Student Tracking System](https://github.com/fatihdinler/Student-Tracking-System)
 
 - 🌱 I’m currently learning **React & React Native**

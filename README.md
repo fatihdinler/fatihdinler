@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fatihdinler](https://github.com/fatihdinler)
 
-- 💬 Ask me about **React, React Native, Android Development in Java**
+- 💬 Ask me about **React, React Native, Android Development in Java, Deployment in both App Store and Google Play Store**
 
 - 📫 How to reach me **fatihdinler458@gmail.com**
 

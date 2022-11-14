@@ -3,7 +3,7 @@
 
 - 📚 I'm a Computer Engineering student at [Marmara University](https://www.marmara.edu.tr/) 
 
-- 📊 I'm currently working at [Konzek Technology](https://www.konzek.com/) as a Mobile Application Developer.
+- 📊 I'm currently working at [Konzek Technology](https://www.konzek.com/) as a Mobile Application Developer
 
 - 🔭 I’m currently working on my personal project [Student Tracking System](https://github.com/fatihdinler/Student-Tracking-System)
 

@@ -2,19 +2,13 @@
 <h3 align="center">A passionate mobile application developer from Turkey</h3>
 
 - 📚 I'm a Computer Engineering student at [Marmara University](https://www.marmara.edu.tr/) 
-
-- 📊 I'm currently working at [Konzek Technology](https://www.konzek.com/) as a Mobile Application Developer
-
-- 🔭 I’m currently working on my personal project [Student Tracking System](https://github.com/fatihdinler/Student-Tracking-System)
-
+- 📊 I'm currently working at [Konzek Technology](https://www.konzek.com/) as a Mobile Application / Frontend Developer
+- 🔭 I’m currently working on my personal project [edu camp](https://github.com/fatihdinler/Student-Tracking-System)
 - 🌱 I’m currently learning **React & React Native**
-
 - 👨‍💻 All of my projects are available at [https://github.com/fatihdinler](https://github.com/fatihdinler)
-
 - 💬 Ask me about **React, React Native, Android Development in Java, Deployment in both App Store and Google Play Store**
-
 - 📫 How to reach me **fatihdinler458@gmail.com**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fatiherkamdinler/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatiherkamdinler/" height="30" width="40" /></a>

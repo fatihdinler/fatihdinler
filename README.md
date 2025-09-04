@@ -6,9 +6,9 @@
 
 I'm a passionate **Full Stack Developer** from Turkey, constantly exploring new technologies and building innovative solutions. Currently working as a **Software Crafter at Craftgate**, focusing on modern web development with JavaScript/TypeScript ecosystem.
 
-- 💼 Currently working at: **Craftgate** as Frontend Developer
+- 💼 Currently working at: **Craftgate** as **Software Crafter**
 - 🔭 Currently mastering: **JavaScript, React.js, React Native & Spring Framework*
-- 🌱 Always learning and staying updated with latest tech trends
+- 🌱 Always learning and staying updatedtech trends
 - 💡 Love to explore new technologies and develop software solutions
 - 🎯 Goal: Building scalable and user-friendly applications
 

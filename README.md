@@ -18,9 +18,9 @@ Currently focused on frontend development at Craftgate, working with:
 
 **Backend:** Node.js, Express, Spring Boot
 
-**Databases:** PostgreSQL, MongoDB, Redis
+**Databases:** PostgreSQL, MongoDB, Redis, CouchDB, etc.
 
-**Tools:** Git, Docker, VS Code
+**Tools:** Git, Docker, Atlassian Ecosystem, etc.
 
 ## Get in Touch
 
